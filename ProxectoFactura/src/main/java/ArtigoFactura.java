@@ -4,7 +4,7 @@
  */
 
 /**
- *
+ * Datos de artigo dunha factura
  * @author a21saralt
  */
 public class ArtigoFactura {
